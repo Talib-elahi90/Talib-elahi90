@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Talib-elahi90" alt="Talib-elahi90" /></a> </p>
 
-- 🌱 I’m currently learning **Java, Swing, Python**
+- 🌱  **Java,Spring boot, Swing, Python**
 
 - 👯 I’m looking to collaborate on **ML Projects**
 
